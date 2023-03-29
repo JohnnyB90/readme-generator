@@ -1,6 +1,6 @@
 
   ## Table of Contents
-  * [Author]
+  * [Author](#myName)
   * [Project Name](#projectName)
   * [Description](#description)
   * [Installation](#installation)
@@ -11,28 +11,29 @@
 
 # Name of Author
 
-Johnny
+Johnny Bonee
 
 # Project Name
 
-Readme Generator
+Readme-Generator
 
 ## Description
 
-Generates a Readme once the questions are anwsered
+It generates a professional readme based on anwsers provided.
 
 
 ## Installation
 
-No installation required
+There is no installation needed.
 
 ## Usage
 
-Follow instructions
+Simply run the program by using Git Bash and the command node index.
 
 ## License
-undefined
+https://img.shields.io/badge/License-MIT-yellow.svg
 MIT
+https://opensource.org/licenses/MIT
 
 ## Support
 
@@ -40,5 +41,5 @@ johnny.bonee@ultimaterestoration.com
 
 ## Questions
 
-For questions or feedback, please feel free to reach out to me at johnnyb90 on GitHub.
+For questions or feedback, please feel free to reach out to me at jbonee90 on GitHub.
   

@@ -43,9 +43,11 @@ function generateMarkdown(data) {
     License,
     Support,
   } = data;
+  
   const licenseBadge = renderLicenseBadge(License);
   const licenseLink = renderLicenseLink(License);
   return `
+  <img alt="License: ${License}" src="${licenseBadge}"></br>
   ## Table of Contents
   * [Author](#myName)
   * [Project Name](#projectName)
@@ -78,9 +80,8 @@ ${installation}
 ${usage}
 
 ## License
-${licenseBadge}
-${License}
-${licenseLink}
+<img alt="License: ${License}" src="${licenseBadge}"></br>
+This project is licensed under the terms of the ${License} license. Click <a href="${licenseLink}">here</a> to view the full license text.
 
 ## Support
 
@@ -88,7 +89,7 @@ ${Support}
 
 ## Questions
 
-For questions or feedback, please feel free to reach out to me at ${myGitHub} on GitHub.
+For questions or feedback, please feel free to reach out to me <a href="https://github.com/${myGitHub}">here</a> on GitHub.
   `;
 }
 

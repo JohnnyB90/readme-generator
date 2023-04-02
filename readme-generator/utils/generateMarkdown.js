@@ -27,10 +27,6 @@ function renderLicenseLink(License) {
   }
 }
 
-// // // TODO: Create a function that returns the license section of README
-// // If there is no license, return an empty string
-
-
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   const {
@@ -40,6 +36,8 @@ function generateMarkdown(data) {
     description,
     installation,
     usage,
+    Testing,
+    Contributors,
     License,
     Support,
   } = data;
@@ -78,6 +76,14 @@ ${installation}
 ## Usage
 
 ${usage}
+
+## Testing
+
+${Testing}
+
+##Contributors
+
+Addtional contributors: ${Contributors}
 
 ## License
 <img alt="License: ${License}" src="${licenseBadge}"></br>

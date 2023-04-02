@@ -37,6 +37,16 @@ const questions = [
     },
     {
       type: 'input',
+      name: 'Testing',
+      message: 'Describe what testing has been done and by who?'
+    },
+    {
+      type: 'input',
+      name: 'Contributors',
+      message: 'Are there any additional contributors to give credit to?'
+    },
+    {
+      type: 'input',
       name: 'License',
       message: 'What license is the project released under?'
     },

@@ -1,5 +1,5 @@
 
-  <img alt="License: Apache" src="undefined"></br>
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></br>
   ## Table of Contents
   * [Author](#myName)
   * [Project Name](#projectName)
@@ -12,42 +12,42 @@
 
 # Name of Author
 
-as;dlkfj
+Johnny Bonee	
 
 # Project Name
 
-sadfawsef
+Readme-Generator
 
 ## Description
 
-asdfewfsd;vlkjnzr
+Generates a professional readme quickly and efficiently.
 
 
 ## Installation
 
-z;vlkhes;oihf
+No installation is required.
 
 ## Usage
 
-;aflkjwben;fzohxcv;
+Open the file, then right click the index.js file and open integrated terminal. From there type node index and anwser the questions.
 
 ## Testing
 
-;flkwenp;foishdv
+No testing has been done for this project.
 
 ##Contributors
 
-Addtional contributors: ;zlsknerf;oisnv
+Addtional contributors: None
 
 ## License
-<img alt="License: Apache" src="undefined"></br>
-This project is licensed under the terms of the Apache license. Click <a href="">here</a> to view the full license text.
+<img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></br>
+This project is licensed under the terms of the MIT license. Click <a href="https://opensource.org/licenses/MIT">here</a> to view the full license text.
 
 ## Support
 
-;falksjf;en
+johnny.bonee@ultimaterestoration.com
 
 ## Questions
 
-For questions or feedback, please feel free to reach out to me <a href="https://github.com/asdfasf">here</a> on GitHub.
+For questions or feedback, please feel free to reach out to me <a href="https://github.com/johnnyb90">here</a> on GitHub.
   

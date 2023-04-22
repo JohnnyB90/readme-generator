@@ -1,14 +1,15 @@
 
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></br>
   ## Table of Contents
-  * [Author](#myName)
-  * [Project Name](#projectName)
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Support](#support)
-  * [Questions](#questions)
+- [Name of Author](#name-of-author)
+- [Project Name](#project-name)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
+  - [License](#license)
+  - [Support](#support)
+  - [Questions](#questions)
 
 # Name of Author
 

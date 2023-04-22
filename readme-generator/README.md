@@ -4,9 +4,11 @@
 - [Name of Author](#name-of-author)
 - [Project Name](#project-name)
   - [Description](#description)
+  - [Link to video of usage](#link-to-video-of-usage)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+  - [Contributors](#contributors)
   - [License](#license)
   - [Support](#support)
   - [Questions](#questions)
@@ -39,7 +41,7 @@ Open the file, then right click the index.js file and open integrated terminal. 
 
 No testing has been done for this project.
 
-##Contributors
+## Contributors
 
 Addtional contributors: None
 

@@ -23,6 +23,9 @@ Readme-Generator
 
 Generates a professional readme quickly and efficiently.
 
+## Link to video of usage
+
+https://drive.google.com/file/d/1pKeBMUOF8sF3yGG39zNlV1jm5PphOrRL/view?usp=share_link
 
 ## Installation
 
